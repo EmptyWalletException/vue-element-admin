@@ -26,7 +26,7 @@
   </a>
 </p>
 
-简体中文 | [English](./README.md)
+简体中文 | [English](./READMEINIT.md)
 
 ## 简介
 
